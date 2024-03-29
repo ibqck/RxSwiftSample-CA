@@ -2,7 +2,7 @@
 //  MovieAppUITestsLaunchTests.swift
 //  MovieAppUITests
 //
-//  Created by 60157143 on 2024/03/29.
+//  Created by Pyo on 2024/03/29.
 //
 
 import XCTest
